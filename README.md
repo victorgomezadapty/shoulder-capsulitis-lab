@@ -6,8 +6,10 @@ Markandeshwar (MM), Mullana, India. Each trial is analysed on its own. **The two
 are not one large trial.** Neither trial has a published results paper; only a protocol (Spiral
 Stretch) and a conference protocol abstract (magnetotherapy) exist: there is no results paper for either trial.
 
-**Status: local draft.** Nothing has been published. No GitHub repository, Kaggle page or Vercel site
-exists for this project yet. A later portfolio case is planned (see [PORTFOLIO_BRIEF.md](PORTFOLIO_BRIEF.md)).
+**Status:** public repository at https://github.com/victorgomezadapty/shoulder-capsulitis-lab. A Kaggle
+dataset and notebook are being prepared. There is no dedicated Vercel site for this case. A later portfolio
+case is planned (see [PORTFOLIO_BRIEF.md](PORTFOLIO_BRIEF.md)). The dataset creators and protocol authors were
+not contacted and have not endorsed this project.
 
 ## Main findings
 

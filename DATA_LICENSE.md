@@ -66,8 +66,8 @@ details are not reproduced anywhere in this project.
 
 ## Future redistribution
 
-Under CC BY 4.0, the official individual level files may later be placed on public GitHub and Kaggle, with the
-attribution above, the license link and this list of changes. That has not been done; this is a local draft.
+Under CC BY 4.0, the official individual level files are redistributed unmodified in this public GitHub
+repository (and later on Kaggle) with the attribution above, the license link and this list of changes.
 
 ## Not used
 

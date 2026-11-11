@@ -4,3 +4,12 @@ __pycache__/
 *.pyc
 .pytest_cache/
 *.part
+
+# Secrets and credentials
+.env
+.env.*
+kaggle.json
+*.pem
+*.key
+secrets/
+.vercel/

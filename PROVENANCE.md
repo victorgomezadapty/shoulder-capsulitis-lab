@@ -46,4 +46,5 @@ tests check that each CSV equals its official source file value by value.
 2. Hashes are checked on every load (`shoulder_capsulitis_lab.data.verify_raw`), in the analysis script and in
    the tests. The analysis stops on any mismatch.
 3. The JCDR protocols are cited only.
-4. Status: local draft. No remote, nothing published, no contact with the authors.
+4. Status: public GitHub repository https://github.com/victorgomezadapty/shoulder-capsulitis-lab. No contact
+   with the authors.

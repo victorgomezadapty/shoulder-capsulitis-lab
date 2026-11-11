@@ -7,8 +7,8 @@ For a later portfolio PR. Do not change these facts without re-running the analy
 * English is the default page, title and Open Graph text. Spanish is available through the portfolio's existing
   one click language switch (the same switch the other Line 2 cases use). No language negotiation from headers,
   cookies or local storage.
-* `publicLink`: the GitHub repository, once it exists (planned slug `victorgomezadapty/shoulder-capsulitis-lab`;
-  not created yet). No dedicated Vercel site for this case.
+* `publicLink`: the GitHub repository, once it exists https://github.com/victorgomezadapty/shoulder-capsulitis-lab
+  (public). No dedicated Vercel site for this case.
 * Suggested title: "Shoulder Capsulitis Lab · Two small open trials, re-analysed separately". Spanish:
   "Shoulder Capsulitis Lab · Dos ensayos abiertos pequeños, reanalizados por separado".
 
@@ -57,4 +57,5 @@ magnetoterapia no muestra diferencias entre grupos.
 
 ## Status
 
-Local draft only. No GitHub repo, no Kaggle page, no Vercel project, nothing published, no contact with authors.
+Public GitHub repo: https://github.com/victorgomezadapty/shoulder-capsulitis-lab. Kaggle dataset and notebook
+prepared for a later upload. No Vercel project for this case. No contact with authors.
