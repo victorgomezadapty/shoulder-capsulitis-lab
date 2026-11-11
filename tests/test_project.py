@@ -305,8 +305,11 @@ def test_no_jcdr_text_copied():
             assert s not in low, (n, s)
 
 
-def test_local_only_no_remote():
+def test_only_expected_remote():
     if not (ROOT / ".git").exists():
-        pytest.skip("no git repo yet")
-    out = subprocess.run(["git", "-C", str(ROOT), "remote"], capture_output=True, text=True).stdout.strip()
-    assert out == ""
+        pytest.skip("no git repo")
+    names = subprocess.run(["git", "-C", str(ROOT), "remote"], capture_output=True, text=True).stdout.split()
+    assert set(names) <= {"origin"}
+    for n in names:
+        url = subprocess.run(["git", "-C", str(ROOT), "remote", "get-url", n], capture_output=True, text=True).stdout.strip()
+        assert url.removesuffix(".git").endswith("github.com/victorgomezadapty/shoulder-capsulitis-lab"), url
