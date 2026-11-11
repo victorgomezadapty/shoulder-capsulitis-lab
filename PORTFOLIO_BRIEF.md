@@ -57,5 +57,4 @@ magnetoterapia no muestra diferencias entre grupos.
 
 ## Status
 
-Public GitHub repo: https://github.com/victorgomezadapty/shoulder-capsulitis-lab. Kaggle dataset and notebook
-prepared for a later upload. No Vercel project for this case. No contact with authors.
+Public GitHub repo: https://github.com/victorgomezadapty/shoulder-capsulitis-lab. Portfolio case: https://victor-gomez-portfolio.vercel.app/projects/shoulder-capsulitis-lab. Kaggle dataset: https://www.kaggle.com/datasets/vctorandrsgmezlpez/adhesive-capsulitis-two-separate-small-trials. Kaggle notebook: https://www.kaggle.com/code/vctorandrsgmezlpez/shoulder-capsulitis-lab-two-trials-re-analysis. No Vercel project for this case. No contact with authors.

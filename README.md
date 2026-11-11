@@ -6,9 +6,7 @@ Markandeshwar (MM), Mullana, India. Each trial is analysed on its own. **The two
 are not one large trial.** Neither trial has a published results paper; only a protocol (Spiral
 Stretch) and a conference protocol abstract (magnetotherapy) exist: there is no results paper for either trial.
 
-**Status:** public repository at https://github.com/victorgomezadapty/shoulder-capsulitis-lab. A Kaggle
-dataset and notebook are being prepared. There is no dedicated Vercel site for this case. A later portfolio
-case is planned (see [PORTFOLIO_BRIEF.md](PORTFOLIO_BRIEF.md)). The dataset creators and protocol authors were
+**Status:** public repository at https://github.com/victorgomezadapty/shoulder-capsulitis-lab. Portfolio case: https://victor-gomez-portfolio.vercel.app/projects/shoulder-capsulitis-lab. Kaggle dataset: https://www.kaggle.com/datasets/vctorandrsgmezlpez/adhesive-capsulitis-two-separate-small-trials. Kaggle notebook: https://www.kaggle.com/code/vctorandrsgmezlpez/shoulder-capsulitis-lab-two-trials-re-analysis. There is no dedicated Vercel site for this case. The dataset creators and protocol authors were
 not contacted and have not endorsed this project.
 
 ## Main findings
@@ -99,7 +97,7 @@ Magnetotherapy (`NEW.xlsx`):
 | `tables/` | 11 CSV tables, aggregates only |
 | `figures/` | 8 figures as PNG with WebP twins |
 | `ANALYSIS_PLAN.md`, `DISCUSSION.md` | Plan and limits, bibliographic notes |
-| `PORTFOLIO_BRIEF.md` | Locked facts for a later bilingual portfolio case |
+| `PORTFOLIO_BRIEF.md` | Locked facts for the bilingual portfolio case |
 
 ## Reproduce
 
