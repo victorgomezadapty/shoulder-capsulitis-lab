@@ -1,0 +1,13 @@
+trial,group,nprs_drop_points,n
+spiral,1,4.0,3
+spiral,1,5.0,9
+spiral,2,3.0,8
+spiral,2,4.0,4
+magneto,1,2.0,1
+magneto,1,3.0,10
+magneto,1,4.0,5
+magneto,1,5.0,2
+magneto,2,2.0,3
+magneto,2,3.0,6
+magneto,2,4.0,6
+magneto,2,5.0,3

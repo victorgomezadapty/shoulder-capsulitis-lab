@@ -1,0 +1,16 @@
+trial,outcome,label,hedges_g,g_ci_low,g_ci_high,diff,diff_ci_low,diff_ci_high
+spiral,SPADI,SPADI total (0 to 100),2.4821,1.5010,4.6914,11.2042,7.8125,14.4493
+spiral,NPRS,"Pain, NPRS (0 to 10)",2.8934,1.9610,4.9308,1.4167,1.0000,1.7500
+spiral,FLEX,Flexion ROM,1.7827,1.0938,2.9035,14.1667,8.1646,19.8333
+spiral,EXT,Extension ROM,2.4790,1.8845,3.8843,5.4167,3.8333,7.0833
+spiral,ABD,Abduction ROM,1.1739,0.4654,2.2436,12.8333,4.6667,20.8333
+spiral,IR,Internal rotation ROM,1.2557,0.5237,2.3528,4.8333,1.9167,7.6667
+spiral,ER,External rotation ROM,1.2914,0.5324,2.5192,6.1667,2.5000,9.5833
+magneto,SPADI,SPADI total (0 to 100),0.2859,-0.3590,0.9367,1.7622,-1.9345,5.6489
+magneto,NPRS,"Pain, NPRS (0 to 10)",-0.0610,-0.7534,0.5812,-0.0556,-0.6111,0.5000
+magneto,FLEX,Flexion ROM,-0.0713,-0.7363,0.5799,-1.0000,-9.7222,7.6111
+magneto,EXT,Extension ROM,-0.3663,-1.2075,0.2607,-2.5000,-6.6111,1.8333
+magneto,ABD,Abduction ROM,0.0826,-0.5314,0.8257,1.1111,-7.3333,9.3903
+magneto,ADD,Adduction ROM,-0.3936,-1.0793,0.2513,-1.5000,-3.8889,0.8889
+magneto,IR,Internal rotation ROM,0.3149,-0.3155,0.9941,2.0556,-1.9444,6.0569
+magneto,ER,External rotation ROM,-0.0070,-0.8049,0.5868,-0.0556,-4.7222,5.1681

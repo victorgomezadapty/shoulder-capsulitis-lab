@@ -1,0 +1,31 @@
+trial,outcome,label,unit,group,group_label,n,pre_mean,post_mean,improvement_mean,improvement_sd,boot_ci_low,boot_ci_high,t_ci_low,t_ci_high,min_improvement,max_improvement,share_improved
+spiral,SPADI,SPADI total (0 to 100),points,1,Spiral Stretch + PT,12,77.543,26.516,51.027,5.640,47.792,53.978,47.443,54.610,38.540,61.060,1.000
+spiral,SPADI,SPADI total (0 to 100),points,2,Control (PT),12,79.663,39.841,39.822,2.487,38.453,41.120,38.243,41.402,35.330,42.960,1.000
+spiral,NPRS,"Pain, NPRS (0 to 10)",points,1,Spiral Stretch + PT,12,7.583,2.833,4.750,0.452,4.500,5.000,4.463,5.037,4.000,5.000,1.000
+spiral,NPRS,"Pain, NPRS (0 to 10)",points,2,Control (PT),12,7.667,4.333,3.333,0.492,3.083,3.583,3.020,3.646,3.000,4.000,1.000
+spiral,FLEX,Flexion ROM,degrees,1,Spiral Stretch + PT,12,115.417,171.833,56.417,8.639,51.750,61.000,50.928,61.905,44.000,69.000,1.000
+spiral,FLEX,Flexion ROM,degrees,2,Control (PT),12,113.917,156.167,42.250,6.566,38.667,45.750,38.078,46.422,33.000,53.000,1.000
+spiral,EXT,Extension ROM,degrees,1,Spiral Stretch + PT,12,43.250,57.167,13.917,2.193,12.667,15.083,12.523,15.310,10.000,17.000,1.000
+spiral,EXT,Extension ROM,degrees,2,Control (PT),12,41.750,50.250,8.500,2.023,7.250,9.417,7.215,9.785,3.000,11.000,1.000
+spiral,ABD,Abduction ROM,degrees,1,Spiral Stretch + PT,12,115.417,171.500,56.083,13.056,49.000,63.083,47.788,64.378,39.000,74.000,1.000
+spiral,ABD,Abduction ROM,degrees,2,Control (PT),12,108.583,151.833,43.250,7.238,39.250,47.000,38.651,47.849,29.000,53.000,1.000
+spiral,IR,Internal rotation ROM,degrees,1,Spiral Stretch + PT,12,50.250,63.667,13.417,4.055,11.250,15.583,10.840,15.993,8.000,20.000,1.000
+spiral,IR,Internal rotation ROM,degrees,2,Control (PT),12,49.250,57.833,8.583,3.343,6.917,10.417,6.459,10.707,4.000,15.000,1.000
+spiral,ER,External rotation ROM,degrees,1,Spiral Stretch + PT,12,56.000,72.167,16.167,4.345,13.833,18.500,13.406,18.927,11.000,22.000,1.000
+spiral,ER,External rotation ROM,degrees,2,Control (PT),12,51.667,61.667,10.000,4.862,7.500,12.750,6.911,13.089,4.000,19.000,1.000
+magneto,SPADI,SPADI total (0 to 100),points,1,Group 1 (presumed magnetotherapy + PT),18,74.946,43.237,31.709,4.447,29.763,33.776,29.498,33.921,24.620,40.770,1.000
+magneto,SPADI,SPADI total (0 to 100),points,2,Group 2 (presumed control),18,77.688,47.741,29.947,7.271,26.623,33.123,26.332,33.563,15.980,39.780,1.000
+magneto,NPRS,"Pain, NPRS (0 to 10)",points,1,Group 1 (presumed magnetotherapy + PT),18,8.333,4.889,3.444,0.784,3.111,3.833,3.055,3.834,2.000,5.000,1.000
+magneto,NPRS,"Pain, NPRS (0 to 10)",points,2,Group 2 (presumed control),18,8.333,4.833,3.500,0.985,3.056,3.944,3.010,3.990,2.000,5.000,1.000
+magneto,FLEX,Flexion ROM,degrees,1,Group 1 (presumed magnetotherapy + PT),18,121.556,156.778,35.222,13.184,29.388,41.333,28.666,41.779,16.000,62.000,1.000
+magneto,FLEX,Flexion ROM,degrees,2,Group 2 (presumed control),18,124.389,160.611,36.222,14.236,29.944,42.611,29.143,43.301,15.000,65.000,1.000
+magneto,EXT,Extension ROM,degrees,1,Group 1 (presumed magnetotherapy + PT),18,38.722,55.056,16.333,5.780,14.111,19.222,13.459,19.208,10.000,33.000,1.000
+magneto,EXT,Extension ROM,degrees,2,Group 2 (presumed control),18,35.111,53.944,18.833,7.462,15.389,22.111,15.123,22.544,4.000,30.000,1.000
+magneto,ABD,Abduction ROM,degrees,1,Group 1 (presumed magnetotherapy + PT),18,121.056,152.611,31.556,11.521,26.444,36.833,25.826,37.285,12.000,50.000,1.000
+magneto,ABD,Abduction ROM,degrees,2,Group 2 (presumed control),18,121.056,151.500,30.444,14.618,24.110,37.278,23.175,37.714,13.000,65.000,1.000
+magneto,ADD,Adduction ROM,degrees,1,Group 1 (presumed magnetotherapy + PT),18,20.389,34.778,14.389,3.183,12.944,15.778,12.806,15.972,6.000,22.000,1.000
+magneto,ADD,Adduction ROM,degrees,2,Group 2 (presumed control),18,20.111,36.000,15.889,4.199,14.000,17.778,13.801,17.977,6.000,24.000,1.000
+magneto,IR,Internal rotation ROM,degrees,1,Group 1 (presumed magnetotherapy + PT),18,56.722,72.278,15.556,6.354,12.889,18.667,12.396,18.716,9.000,30.000,1.000
+magneto,IR,Internal rotation ROM,degrees,2,Group 2 (presumed control),18,58.056,71.556,13.500,6.410,10.778,16.500,10.312,16.688,5.000,30.000,1.000
+magneto,ER,External rotation ROM,degrees,1,Group 1 (presumed magnetotherapy + PT),18,47.222,62.111,14.889,9.529,11.056,19.556,10.150,19.628,2.000,44.000,1.000
+magneto,ER,External rotation ROM,degrees,2,Group 2 (presumed control),18,41.778,56.722,14.944,5.567,12.556,17.556,12.176,17.713,5.000,30.000,1.000

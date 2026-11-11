@@ -1,0 +1,16 @@
+trial,flag_id,flag,count,detail,handling
+spiral,S1,Format and codebook,1,"SPSS file only; no codebook beyond SPSS value labels (GROUP 1 EXPRIMENTAL, 2 CONTROL; GENDER 1 MALE, 2 FEMALE)",Value labels used as documented; CSV derivative written
+spiral,S2,BMI does not match height and weight (>0.5 kg/m2),13,max difference 6.58 kg/m2,BMI recomputed for description; sensitivity without these rows
+spiral,S3,Change score not equal to post minus pre,1,"flexion, one experimental row: deposited 66, recomputed 61 (5 degrees)",Recomputed change used; deposited shown in sensitivity
+spiral,S4,Uniform improvement,24,every row improves on every outcome; NPRS falls by 3 to 5 points in all 24,Regularity table and noise stress test
+spiral,S5,SPSS filter_$ column,1,selects GROUP = 1; analysis artifact,Ignored
+spiral,S6,Protocol vs deposit,2,"protocol: diabetic patients only and a 12 person pilot; deposit: n=24, no diabetes variable",Stated; diabetes status cannot be checked
+spiral,S7,Repeated height and weight,5,"rows sharing the same height and weight with another row (148 cm, 52 kg appears 3 times)",Reported only
+magneto,M1,No codebook,1,GROUP 1/2 and GENDER 1/2 codes undocumented; generic file name NEW.xlsx,Group reported as Group 1 minus Group 2; sex not used in inference
+magneto,M2,BMI does not match height and weight (>0.5 kg/m2),3,max difference 4.99 kg/m2,Sensitivity without these rows
+magneto,M3,Ages outside protocol range 35 to 50,19,observed 32 to 60,Sensitivity restricted to 35 to 50
+magneto,M4,Pain scale differs from protocol,1,protocol abstract: VAS; data: NPRS,"Analysed as NPRS, stated"
+magneto,M5,Uniform improvement,36,every row improves on every outcome; NPRS falls by 2 to 5 points,Regularity table
+magneto,M6,Change score not equal to post minus pre,0,all change scores consistent,None needed
+magneto,M7,Repeated SPADI pre and post pairs,11,4 identical SPADI pre/post pairs shared by 11 rows (other columns differ),Sensitivity keeping first occurrence only
+magneto,M8,Ethics and registration,1,not stated in deposit or abstract; not verified,Flagged as unverified

@@ -1,0 +1,8 @@
+python 3.13.5 pandas 3.1.1 numpy 2.5.4
+verified Spiral Stretch Data.sav sha256 61f73cffa6a301cd29097a5adc21c48cadcc563f484cfd92eaa58b2e51be0e3d
+verified NEW.xlsx sha256 18c9ee575c8babd2f1da4d137fb970f82e04d53c6158dd914c93776069e10b56
+derived data/derived/spiral_stretch_data_from_sav.csv rows 24 cols 28
+derived data/derived/magnetotherapy_NEW_from_xlsx.csv rows 36 cols 30
+tables 11
+figures 16
+pooled False

@@ -1,0 +1,26 @@
+trial,variable,group1_mean,group1_sd,group2_mean,group2_sd,group1_minus_group2
+spiral,"Age, years",46.000,11.004,52.417,6.215,-6.417
+spiral,"Height, cm",157.750,9.363,161.333,8.815,-3.583
+spiral,"Weight, kg",64.583,10.184,62.750,9.401,1.833
+spiral,BMI as deposited,26.413,2.999,24.049,3.553,2.364
+spiral,BMI recomputed,25.869,2.526,24.070,2.615,1.798
+spiral,Baseline SPADI total (0 to 100),77.543,4.882,79.663,3.844,-2.121
+spiral,"Baseline Pain, NPRS (0 to 10)",7.583,0.669,7.667,0.778,-0.083
+spiral,Baseline Flexion ROM,115.417,11.074,113.917,11.033,1.500
+spiral,Baseline Extension ROM,43.250,3.079,41.750,3.306,1.500
+spiral,Baseline Abduction ROM,115.417,14.463,108.583,10.925,6.833
+spiral,Baseline Internal rotation ROM,50.250,5.463,49.250,4.693,1.000
+spiral,Baseline External rotation ROM,56.000,5.970,51.667,5.331,4.333
+magneto,"Age, years",48.667,7.956,51.167,3.989,-2.500
+magneto,"Height, cm",161.611,8.132,162.278,5.410,-0.667
+magneto,"Weight, kg",63.889,10.174,64.944,13.004,-1.056
+magneto,BMI as deposited,24.417,2.209,24.783,3.384,-0.367
+magneto,BMI recomputed,24.320,2.342,24.515,3.854,-0.195
+magneto,Baseline SPADI total (0 to 100),74.946,4.356,77.688,5.863,-2.742
+magneto,"Baseline Pain, NPRS (0 to 10)",8.333,0.594,8.333,0.686,0.000
+magneto,Baseline Flexion ROM,121.556,20.203,124.389,21.478,-2.833
+magneto,Baseline Extension ROM,38.722,8.407,35.111,5.738,3.611
+magneto,Baseline Abduction ROM,121.056,22.041,121.056,27.505,0.000
+magneto,Baseline Adduction ROM,20.389,3.127,20.111,3.027,0.278
+magneto,Baseline Internal rotation ROM,56.722,10.162,58.056,7.734,-1.333
+magneto,Baseline External rotation ROM,47.222,14.203,41.778,12.978,5.444
